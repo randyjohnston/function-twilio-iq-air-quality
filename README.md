@@ -29,6 +29,7 @@ Make sure you have [Node.js](https://nodejs.org) as well as [`npm`](https://npmj
 1. Clone this repo
 2. Install the dependencies
 
+```bash
   # Install the dependencies of the Twilio Function
   npm install
   ```
