@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@twilio-labs/serverless-runtime-types": "^2.1.0",
-    "axios": "^0.21.3",
+    "axios": "^0.26.1",
     "twilio": "^3.56"
   },
   "devDependencies": {
