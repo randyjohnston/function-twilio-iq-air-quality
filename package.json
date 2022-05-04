@@ -9,7 +9,7 @@
     "lint": "eslint . --ext .ts"
   },
   "dependencies": {
-    "@twilio-labs/serverless-runtime-types": "^2.1.0",
+    "@twilio-labs/serverless-runtime-types": "^2.2.2",
     "axios": "^0.21.3",
     "twilio": "^3.56"
   },
